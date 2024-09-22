@@ -1,3 +1,9 @@
+---
+title: Rendered fewer hooks than expected
+slug: rendered-fewer-hooks-than-expected
+published: true
+---
+
 ## Uncaught Error: Rendered fewer hooks than expected. This may be caused by an accidental early return statement in React or Next.js or React Native or Expo
 
 ```js
