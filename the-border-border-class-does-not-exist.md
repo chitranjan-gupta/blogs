@@ -18,7 +18,8 @@ categories:
 title: The `border-border` class does not exist
 ---
 
-![[tailwindcss-compile-error.png]]
+![tailwindcss-compile-error](tailwindcss-compile-error.png)
+
 ### Resolving Tailwind CSS Compilation Errors in Next.js
 
 Integrating Tailwind CSS into your Next.js application can significantly enhance your styling capabilities. However, developers often encounter issues, especially in development mode, where Tailwind CSS fails to recognize certain classes. A common error is related to custom classes, such as `border-border`. In this post, we’ll dive deep into troubleshooting and fixing this error, ensuring a smooth development experience.
