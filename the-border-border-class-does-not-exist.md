@@ -18,7 +18,7 @@ categories:
 title: The `border-border` class does not exist
 ---
 
-![tailwindcss-compile-error](tailwindcss-compile-error.png)
+[![tailwindcss-compile-error.png](https://i.postimg.cc/dtvbBsMf/tailwindcss-compile-error.png)](https://postimg.cc/rznZyLwG)
 
 ### Resolving Tailwind CSS Compilation Errors in Next.js
 
