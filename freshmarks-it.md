@@ -17,9 +17,8 @@ categories:
   - Addon
   - Firefox
   - Chrome
-title: Freshmarks It - Bookmark Updater
+title: FreshMarks It - A Game-Changing Bookmark Updater Extension
 ---
-# FreshMarks It: A Game-Changing Bookmark Updater Extension
 
 - **Repository**: https://github.com/chitranjan-gupta/freshmarks
 - **Description**: Bookmark Updater
