@@ -26,7 +26,6 @@ title: FreshMarks It - A Game-Changing Bookmark Updater Extension
 - **License**: MIT License
 
 [![screenshot-1](https://github.com/chitranjan-gupta/freshmarks/blob/master/chrome/screenshots/screenshot-1.png?raw=true)](https://github.com/chitranjan-gupta/freshmarks)
-
 ## Description
 In today's digital age, bookmarks play a crucial role in helping us organize and access our favorite online resources. However, with the ever-changing nature of the internet, bookmarks can quickly become outdated, leading to broken links and frustrating searches.
 
