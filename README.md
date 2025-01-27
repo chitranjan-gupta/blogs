@@ -9,3 +9,4 @@ published: "false"
 4. [nextjs-metadata](https://github.com/chitranjan-gupta/blogs/blob/master/nextjs-metadata.md)
 5. [expo-tunnel](https://github.com/chitranjan-gupta/blogs/blob/master/expo-tunnel.md)
 6. [freshmarks-it](https://github.com/chitranjan-gupta/blogs/blob/master/freshmarks-it.md)
+7. [expo-react-native-devtools-debugging](https://github.com/chitranjan-gupta/blogs/blob/master/expo-react-native-devtools-debugging.md)
