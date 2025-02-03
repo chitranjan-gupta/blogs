@@ -81,7 +81,7 @@ Installing FreshMarks It is easy and straightforward. Here are the steps:
 #### Way 2
 - Clone the repository or download the zip file from the FreshMarks It GitHub page. (`https://github.com/chitranjan-gupta/freshmarks`).
 - Extract the zip file.
-- Open Mozilla Firefox and navigate to the debugging page (`about:debugging`).
+- Open Mozilla Firefox and navigate to the debugging page (`about://debugging`).
 - Click on `This Firefox` and then click on `Load Temporary Add-on`and load the `freshmarks/firefox/manifest.json` from the extracted folder.
 
 ## Firefox - Mobile (Android)
