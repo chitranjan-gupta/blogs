@@ -26,6 +26,7 @@ title: FreshMarks It - A Game-Changing Bookmark Updater Extension
 - **License**: MIT License
 
 [![screenshot-1](https://github.com/chitranjan-gupta/freshmarks/blob/master/chrome/screenshots/screenshot-1.png?raw=true)](https://github.com/chitranjan-gupta/freshmarks)
+[![Freshmarks-It](https://img.youtube.com/vi/L4kh7ZOMurg/0.jpg)](https://www.youtube.com/watch?v=L4kh7ZOMurg)
 ## Description
 In today's digital age, bookmarks play a crucial role in helping us organize and access our favorite online resources. However, with the ever-changing nature of the internet, bookmarks can quickly become outdated, leading to broken links and frustrating searches.
 
@@ -50,12 +51,18 @@ FreshMarks It offers a range of features and benefits, including:
 - **Organized bookmarks**: FreshMarks It helps keep your bookmark list organized by removing outdated bookmarks and replacing them with updated ones.
 - **Support for multiple browsers**: FreshMarks It is available for both Chrome and Firefox, making it easy to manage your bookmarks across multiple browsers.
 ## Permissions
-- webRequest: To listen for HTTP requests and redirects.
-- bookmarks: To update bookmarks.
-- tabs: To access tab information.
+- **webRequest**: To listen for HTTP requests and redirects.
+- **bookmarks**: To update bookmarks.
+- **tabs**: To access tab information.
 ## Installation
 
 Installing FreshMarks It is easy and straightforward. Here are the steps:
+
+## Edge
+
+- Open Edge Browser and navigate to https://microsoftedge.microsoft.com/addons/detail/freshmarks-it/ffmcidhkdkneebilleobjedhjdodlpea
+- Click on Get to install the extension
+
 ## Chrome | Brave | Opera | Edge | Arc Browser - Personal Computer
 
 - Clone the repository or download the zip file from the FreshMarks It GitHub page. (`https://github.com/chitranjan-gupta/freshmarks`).

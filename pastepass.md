@@ -28,6 +28,7 @@ title: PastePass - Easily Paste Anywhere, Even on Restricted Websites!
 - **License**: MIT License
 
 [![screenshot-1](https://github.com/chitranjan-gupta/pastepass/blob/master/chrome/screenshots/screenshot-1.png?raw=true)](https://github.com/chitranjan-gupta/pastepass)
+[![PastePass](https://img.youtube.com/vi/wHqyhzPBaIA/0.jpg)](https://www.youtube.com/watch?v=wHqyhzPBaIA)
 ### Introduction
 
 `pastepass` is a convenient tool designed to help users paste text on websites that have restrictions on pasting. This can be particularly useful for filling out forms or other input fields where pasting is disabled.
@@ -82,6 +83,10 @@ Paste restrictions on websites can cause a range of problems, including:
 ## Installation
 
 Installing PastePass It is easy and straightforward. Here are the steps:
+
+### Edge
+- Open Edge Browser and navigate to https://microsoftedge.microsoft.com/addons/detail/pastepass/ljljoebbabeaaofpdomohljodfhjloic
+- Click on Get to install the extension
 ## Chrome | Brave | Opera | Edge | Arc Browser - Personal Computer
 
 - Clone the repository or download the zip file from the PastePass GitHub page. (`https://github.com/chitranjan-gupta/pastepass`).

@@ -45,7 +45,15 @@ React Native DevTools is based on the Chrome DevTools frontend, offering a famil
 4. Make sure your app is connected to the development server and try reloading the app if you encounter issues.
 ### How to open React Native Devtools through tunneling ?
 
+[![Expo React Native Devtools](https://img.youtube.com/vi/Drkw2UwI1l0/0.jpg)](https://www.youtube.com/watch?v=Drkw2UwI1l0)
+
 ### Method 1
+
+#### Edge Browser
+- Open Edge Browser and navigate to https://microsoftedge.microsoft.com/addons/detail/expo-react-native-devtool/aakbhgdpbgkgdijllkpoaolnejhobjkl
+- Click on Get to install the extension
+- After that follow the steps from Step no 4  
+
 To start React Native DevTools through tunneling, follow these steps:
 1. Download the chrome extension zip from https://github.com/chitranjan-gupta/expo-react-native-devtools
 2. Extract it and Open Chrome Based Browser and navigate to `chrome://extensions`
