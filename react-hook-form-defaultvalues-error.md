@@ -18,6 +18,7 @@ categories:
   - Nextjs
 title: React Hook Form - defaultValues not changing
 ---
+[![react hook form default values not changing](https://img.youtube.com/vi/0S_yq7tYfm0/0.jpg)](https://www.youtube.com/watch?v=0S_yq7tYfm0)
 ### Example of Full Component:
 
 ```tsx
