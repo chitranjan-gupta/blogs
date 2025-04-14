@@ -14,6 +14,8 @@ categories:
   - React
   - Programming
 ---
+[![rendered fewer hooks than expected](https://img.youtube.com/vi/3VZDyLxH-BM/0.jpg)](https://www.youtube.com/watch?v=3VZDyLxH-BM)
+[![rendered-fewer-hooks-than-expected.jpg](https://github.com/chitranjan-gupta/blogs/blob/master/images/rendered-fewer-hooks-than-expected.jpg?raw=true)](https://github.com/chitranjan-gupta/blogs/blob/master/images/rendered-fewer-hooks-than-expected.jpg?raw=true)
 ```js
 Uncaught Error: Rendered fewer hooks than expected. This may be caused by an accidental early return statement.
 ```
